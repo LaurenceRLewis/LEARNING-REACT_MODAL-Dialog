@@ -1,6 +1,8 @@
 # LEARNING-REACT_MODAL-Dialog
 
-Working example: https://5cyvyp.csb.app/
+**This is my attempt at learning REACT. There are many bugs in these components and they MUST not be copied for use in production.**
+
+Working example on Netify:
 
 ## Steps used to build the component
 
